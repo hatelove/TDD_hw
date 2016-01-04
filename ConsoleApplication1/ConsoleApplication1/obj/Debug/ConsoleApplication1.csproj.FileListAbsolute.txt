@@ -4,3 +4,9 @@ D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\Co
 D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TDD_GIT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TDD_GIT\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TDD_GIT\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TDD_GIT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TDD_GIT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TDD_GIT\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

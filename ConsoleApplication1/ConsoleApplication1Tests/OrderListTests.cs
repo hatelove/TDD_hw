@@ -11,9 +11,9 @@ namespace ConsoleApplication1.Tests
     public class OrderListTests
     {
         OrderList orderList;
-        /*
-        [ClassInitialize()]
-        */
+
+        [TestInitialize()]
+  
         public void InitializeOrderList()
         {
             orderList = new OrderList();
@@ -36,8 +36,6 @@ namespace ConsoleApplication1.Tests
         [TestMethod()]
         public void SumTest_Cost_3()
         {
-            InitializeOrderList();
-
 
             List<int> actual = orderList.Sum("Cost", 3);
             var expected = new List<int>() { 6, 15, 24, 21 };
@@ -45,23 +43,37 @@ namespace ConsoleApplication1.Tests
              //Assert.Fail();
 
         }
+
+          [TestMethod()]
         public void SumTest_Revenue_4() 
         {
-            InitializeOrderList();
             List<int> actual = orderList.Sum("Revenue", 4);
             var expected = new List<int>() { 50, 66, 60 };
             CollectionAssert.AreEqual(actual, expected);
         }
+          [TestMethod()]
         public void SumTest_SellPrice_1()
         {
             List<int> actual = orderList.Sum("SellPrice", 1);
-            var expected = new List<int>() { 50, 66, 60 };
+            var expected = new List<int>() { 21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31
+ };
             CollectionAssert.AreEqual(actual, expected);
         }
+          [TestMethod()]
         public void SumTest_Id_max()
         {
             List<int> actual = orderList.Sum("Id", Int32.MaxValue);
-            var expected = new List<int>() { 50, 66, 60 };
+            var expected = new List<int>() { 66 };
             CollectionAssert.AreEqual(actual, expected);
         }
     }
