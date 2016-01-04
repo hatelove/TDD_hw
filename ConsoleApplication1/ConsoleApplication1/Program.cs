@@ -43,6 +43,9 @@ namespace ConsoleApplication1
         }
     }
 
+    // production code 的部分寫得比較複雜一點，雖然這樣封裝有一定的好處，但相對起來比較沒這麼直覺跟好維護。
+    // 建議參考一下我的 sample code，或許會激發您更多的設計靈感: http://bit.ly/91-tdd-day1-homework-solution
+    // 重點還是在彈性、易讀、好維護
     public class OrderList
     {
         public OrderList()
