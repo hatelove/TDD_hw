@@ -1,0 +1,7 @@
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1Tests.dll
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1Tests.pdb
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1.exe
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1.pdb
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.csprojResolveAssemblyReference.cache
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.dll
+D:\Work\[Feature Training] Regarding TDD & BDD\hw1\webber\ConsoleApplication1\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.pdb
